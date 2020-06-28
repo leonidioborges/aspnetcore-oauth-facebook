@@ -10,6 +10,7 @@ D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\ASPNET_OauthFacebook.pdb
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\ASPNET_OauthFacebook.Views.dll
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\ASPNET_OauthFacebook.Views.pdb
+D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\workspace\github\aspnetcore-oauth-facebook\src\ASPNET_OauthFacebook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
